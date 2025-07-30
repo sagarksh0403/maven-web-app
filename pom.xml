@@ -12,11 +12,11 @@
   <distributionManagement>
     <snapshotRepository>
       <id>nexus-snapshots</id>
-      <url>http://65.1.147.151:8081/repository/amazon-snapshot/</url>
+      <url>http://35.154.21.129:8081/repository/amazon-snapshot/</url>
     </snapshotRepository>
     <repository>
       <id>nexus-release</id>
-      <url>http://65.1.147.151:8081/repository/amazon-release/</url>
+      <url>http://35.154.21.129:8081/repository/amazon-release//</url>
     </repository>
   </distributionManagement>
 
