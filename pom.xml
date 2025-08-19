@@ -16,7 +16,7 @@
     </snapshotRepository>
     <repository>
       <id>nexus-release</id>
-      <url>http://35.154.21.129:8081/repository/amazon-release//</url>
+      <url>http://35.154.21.129:8081/repository/amazon-release/</url>
     </repository>
   </distributionManagement>
 
